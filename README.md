@@ -62,6 +62,8 @@ Download the STC-2025 training set here
 STC/Training_dataset
 ```
 
+The fine-tuned YOLOv11 weight is available at  https://drive.google.com/drive/folders/1PgTjJdgkrEXSl110Q9N3aAMum3HKxpJg?usp=drive_link
+
 ### 3.Modify Deep-EIoU
 Deep-EIoU uses YOLOX as the default detector. To use the fine-tuned YOLOv11, it is necessary to modify the Deep-EIoU/tools/demo.py
 
