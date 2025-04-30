@@ -1,0 +1,5 @@
+names:
+- player
+nc: 1
+train: /home/y_li/workspace3/STC/STC_YOLO_finetune_dataset/images/train
+val: /home/y_li/workspace3/STC/STC_YOLO_finetune_dataset/images/test
